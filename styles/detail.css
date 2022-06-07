@@ -1,0 +1,33 @@
+body{
+
+}
+/* Header Div */
+
+header{
+    margin-bottom: 2%;
+}
+
+
+/* Content Div */
+
+.hotel img{
+    height: 500px;
+    width: 500px;
+}
+
+section{
+    margin-left:4% ;
+}
+
+.hotel-detail{
+    margin-top: 2%;
+}
+
+.hotel-detail li{
+    margin-left: 2%;
+}
+
+
+
+
+/* Footer */

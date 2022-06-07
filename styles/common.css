@@ -1,0 +1,88 @@
+/* Genral */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+:root{
+    --background-color: #e0e0e0;
+    --h-f-color:rosybrown;
+    --bg-color:rgb(132,136,139);
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+.width-control{
+    width: 100vw ;
+    /* border: 5px solid black; */
+}
+
+/* body{
+    display: flex;
+    justify-content: center;
+
+} */
+
+body{
+    background-color: var(--background-color);
+}
+
+
+/* Header */
+
+header,footer{
+    background-color: var(--h-f-color);
+    height: 8.5%;
+}
+
+header img{
+    height: 60px;
+    width: 60px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+
+
+
+/* Footer */
+
+#social_logo img{
+    height: 20px;
+    width: 22px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer div{
+    margin-right: 1.5em;
+    display: flex;
+}
+
+footer sub{
+    margin-top: 2.5%;
+}
+
+

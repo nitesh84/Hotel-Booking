@@ -1,0 +1,83 @@
+
+.width-control{
+    background-color:  #e0e0e0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* Header Div */
+
+a{
+    align-self: center;
+    padding-right: 2.5%;
+    text-decoration: none;
+}
+
+
+
+
+/* Content Div */
+
+.section-img{
+    height: 150px;
+    width: 150px;
+}
+
+.search-bar{
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-o/14/10/2e/af/india.jpg");
+    height: 460px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    width: 100%;  
+    position: relative;
+    
+}
+
+form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    /* border: 1px solid transparent; */
+    border-radius: 12px;
+    background-color:  #f1f1f1;
+    height: 8%;
+    width: 26%;  
+}
+
+input{
+    height: 100%;
+    width: 100%;
+    border-radius: 12px;
+    padding-left: 1.5%;
+    background-color:  #f1f1f1;
+}
+
+.city-cart img{
+    border-radius: 10%;
+}
+
+.city-cart{
+   display: flex;    
+   justify-content: space-evenly;
+   margin: 2em 0;
+}
+
+.view-more{
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+/* Footer */

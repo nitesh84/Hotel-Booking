@@ -1,0 +1,26 @@
+
+
+
+/* Header */
+
+
+
+
+
+/* Content */
+.hotels img{
+    height: 150px;
+    width: 150px;
+}
+
+.hotel-item{
+    background-color: var(--bg-color);
+    width:40% ;
+    margin: 2%;
+}
+
+
+
+
+
+/* Footer */

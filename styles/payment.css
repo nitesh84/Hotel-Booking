@@ -1,0 +1,32 @@
+
+/* Header Div */
+
+
+/* Content Div */
+
+.hotel img{
+    width: 500px;
+    height: 500px;
+}
+
+.hotel{
+    background-color: var(--bg-color);
+    width: 50%;
+    margin: 2% auto;
+}
+.customer-info{
+    margin-left: 2%;
+}
+.box{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 6em;
+    width: 90%;
+    margin: 2% auto;
+    padding: 1% 2%;
+}
+.box p{
+    line-height: 2em;
+}
+
+/* Footer */
